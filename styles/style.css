@@ -1,0 +1,144 @@
+html {
+    font-size: 20px;
+    font-family: "Roboto", google font;
+}
+.center {
+   display:block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.About-btn {
+    background-color: transparent;
+    border: 0px;
+}
+.underlinetext:hover {
+text-decoration: underline;
+}
+.Store-btn {
+    background-color: transparent;
+    border:0px;
+}
+.Gmail-btn {
+    background-color: transparent;
+    border:0px;
+}
+.Images-btn {
+    background-color: transparent;
+    border:0px;
+}
+.signin-btn {
+    background-color:#4285f4;
+    border:0px;
+    color:#fff;
+}
+.GoogleSearch-btn {
+    background-color: #f2f2f2;
+    margin-right: 10px;
+    /* margin-top:10px; */
+    
+}
+.ImFeelingLucky-btn {
+background-color: #f2f2f2;
+
+}
+.Advertising-btn {
+    display:flex;
+    flex-direction: row;
+    background-color: transparent;
+    border:0px;
+}
+.Business-btn {
+    display:flex;
+    flex-direction: row;
+    background-color: transparent;
+    border:0px;
+}
+.HowSearchWorks-btn {
+    display:flex;
+    flex-direction: row;
+    background-color: transparent;
+    border:0px;
+}
+.Privacy-btn{
+    display:flex;
+    flex-direction: row;
+    background-color: transparent;
+    border:0px;
+}
+.Terms-btn {
+    display:flex;
+    flex-direction: row;
+    background-color: transparent;
+    border:0px;
+}
+.Setting-btn{
+    display:flex;
+    flex-direction: row;
+    background-color: transparent;
+    border:0px;
+}
+.bottom {
+    display:flex;
+    flex-direction: row;
+    bottom:0;
+    /* margin-bottom:auto; */
+    /* position:static; */
+}
+.middle{
+  display:flex;
+  flex-direction: column;
+  /* margin-left: 850px; */
+  align-items: center;
+}
+.head {
+    display:flex;
+    flex-direction: row;
+    align-items:left;
+}
+.headright {
+    display:flex;
+    flex-direction:row;
+    /* margin-left:1700px; */
+    align-items:right;
+}
+.round {
+    border-radius: 20px;
+    width:400px;
+
+}
+.googlelogo {
+    justify-content: center;
+}
+.googlebutton {
+    display:flex;
+    flex-direction: row;
+    margin-top:15px;
+
+    }
+.bottomleft {
+        display:flex;
+        flex-direction: row;
+        left:5px;
+        /* position:absolute; */
+    }
+
+body {
+
+height:100%;
+}
+.headleft {
+
+}
+footer {
+    position: absolute;
+    bottom:0px;
+    height:25px;
+    width:99%;
+    background-color: rgba(0,0,0,0.14);
+}
+.bottomright {
+        display:flex;
+        flex-direction:row;
+        margin-left:auto;
+        /* position:absolute; */
+    }
